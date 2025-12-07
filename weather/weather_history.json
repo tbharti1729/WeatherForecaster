@@ -1,0 +1,42 @@
+[
+    {
+        "city": "Indore",
+        "temperature": 26.1,
+        "description": "few clouds"
+    },
+    {
+        "city": "Indore",
+        "temperature": 26.1,
+        "description": "few clouds"
+    },
+    {
+        "city": "Rewa",
+        "temperature": 24.87,
+        "description": "overcast clouds"
+    },
+    {
+        "city": "Gandhi Nagar",
+        "temperature": 28.61,
+        "description": "mist"
+    },
+    {
+        "city": "Indore",
+        "temperature": 26.1,
+        "description": "few clouds"
+    },
+    {
+        "city": "Indore",
+        "temperature": 27.1,
+        "description": "few clouds"
+    },
+    {
+        "city": "Indore",
+        "temperature": 27.1,
+        "description": "few clouds"
+    },
+    {
+        "city": "Indore",
+        "temperature": 27.1,
+        "description": "few clouds"
+    }
+]
