@@ -40,8 +40,6 @@ Styling	 - Custom CSS injected into Streamlit
 
 🚧 Future Improvements
 
-Here’s what would push this from "good" to “portfolio-level strong”:
-
 Add AQI (Air Quality Index)
 
 Add historical weather graph
