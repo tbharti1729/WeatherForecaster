@@ -52,4 +52,3 @@ Deploy on Streamlit Cloud
 
 Add logging (logging module)
 
-Write unit tests (pytest)
