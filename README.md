@@ -49,5 +49,3 @@ Auto-detect location using IP
 Deploy on Streamlit Cloud
 
 Add logging (logging module)
-
-Write unit tests (pytest)
