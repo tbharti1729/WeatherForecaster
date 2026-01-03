@@ -1,8 +1,16 @@
 import requests
 import json
 import os
+from dotenv import load_dotenv
 
-API_KEY = "cbc8c24206098c2ae3f68ff41bfd54b0"
+load_dotenv()
+
+
+API_KEY = os.getenv("OPENWEATHER_API_KEY")
+
+if not API_KEY:
+    raise ValueError("OPENWEATHER_API_KEY not found. Check your .env file.")
+
 WEATHER_URL = "http://api.openweathermap.org/data/2.5/weather"
 FORECAST_URL = "http://api.openweathermap.org/data/2.5/forecast"
 HISTORY_FILE = "weather_history.json"

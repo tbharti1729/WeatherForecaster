@@ -3,5 +3,15 @@
         "city": "Indore",
         "temperature": 16.1,
         "description": "haze"
+    },
+    {
+        "city": "Indore",
+        "temperature": 19.1,
+        "description": "mist"
+    },
+    {
+        "city": "Gandhi Nagar",
+        "temperature": 28.19,
+        "description": "haze"
     }
 ]

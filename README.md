@@ -12,7 +12,13 @@ A Python-based Weather Forecaster that fetches real-time weather data for any ci
 ## How to Run
 1. Install dependencies:
 
-2. Replace `YOUR_API_KEY_HERE` in `weather_fetcher.py` with your OpenWeatherMap API key.
+2. Environment Setup
+
+Create a `.env` file in the project root:
+
+OPENWEATHER_API_KEY=your_api_key_here
+
+API keys are loaded using environment variables and are not committed to version control.
 3. Run Streamlit app:
 
 🖼️ UI Preview

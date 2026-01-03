@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+
+# Node (if not used)
+node_modules/
+package-lock.json
+package.json
+
+# Misc
+to run
