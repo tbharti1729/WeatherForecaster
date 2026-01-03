@@ -19,6 +19,7 @@ Create a `.env` file in the project root:
 OPENWEATHER_API_KEY=your_api_key_here
 
 API keys are loaded using environment variables and are not committed to version control.
+
 3. Run Streamlit app:
 
 🖼️ UI Preview
